@@ -1,1 +1,1 @@
-# Chapman-University-Assignments
+# Coding Assignments
