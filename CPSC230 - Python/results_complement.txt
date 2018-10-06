@@ -1,0 +1,12 @@
+Original: gta
+The complement of your string is: CAT
+The reverse complement of your string is: TAC
+
+Original: aaccggtt
+The complement of your string is: TTGGCCAA
+The reverse complement of your string is: AACCGGTT
+
+Original: gcgtagcgtt
+The complement of your string is: CGCATCGCAA
+The reverse complement of your string is: AACGCTACGC
+

@@ -1,0 +1,8 @@
+Original: acgt
+The complement of your string is: TGCA
+The reverse complement of your string is: ACGT
+
+Original: ttta
+The complement of your string is: AAAT
+The reverse complement of your string is: TAAA
+
